@@ -1,4 +1,4 @@
-# jfaceimageeditor
+# JFace Text Editor
 Editing application simple text with the JFace GUI library
 # How to install of JFace libraries?
 
