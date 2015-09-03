@@ -1,0 +1,1 @@
+C:\eclipse\configuration\org.eclipse.osgi\bundles\148\1\.cp\icons\full\elcl16
