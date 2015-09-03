@@ -5,7 +5,7 @@ Editing application simple text with the JFace GUI library
 
 1.- First download the SWT package: The Standard Widget Toolkit from http://www.eclipse.org/swt/ 
 
-- Right-click on the project and select Build Path> Configure Build Path
+- Right-click on the project and select Build Path> Configure Build Path.
 - Select the Libraries tab and click the Add Library button
 - Bookseller SWT Select Next and press OK to finish adding the SWT library to your project.
 
